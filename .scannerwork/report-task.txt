@@ -1,0 +1,6 @@
+projectKey=LifeHP-App
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=LifeHP-App
+ceTaskId=d7d56c7e-268b-4e92-a447-f224eb1c1b52
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d7d56c7e-268b-4e92-a447-f224eb1c1b52
